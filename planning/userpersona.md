@@ -2,8 +2,8 @@
 
 <!-- some introduction -->
 
-Start investing with Alex is a stock-trading website designed with a
-robo-advisor for guided investment.This trading platform that makes everything
+Alex Thoughts is a stock-trading blog designed with a
+robo-advisor for guided investment.This blog that makes everything
 suitable for novice traders and takes a lead on their learning
 experience.Provide users with information and control at very step of the
 processs that they can make trades with unwavering confidence.Making their first
